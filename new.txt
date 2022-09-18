@@ -1,1 +1,4 @@
-hello wxf, i edit this file for the first readme introduction, pls dont mind this !
+
+hello wxf, i edit this file for the first readme introduction, pls dont mind this 
+hello wxf, i delete your commit this time for new.txt 
+
